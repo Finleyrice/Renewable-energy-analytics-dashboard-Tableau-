@@ -1,4 +1,4 @@
-View The Live Tableau Dashboard Below:
+View The Live Tableau Dashboard Below:(make sure to make it fullscreen to get the best experience)
 https://public.tableau.com/views/Tableauvisualisation_17702175414590/Dashboard1
 
 # Renewable-energy-analytics-dashboard-Tableau-
